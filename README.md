@@ -1290,7 +1290,7 @@
 ## 附加的学习
 
 - ### Unicode
-    - [ ] [每一个软件开发者的绝对最低限度，必须要知道的关于 Unicode 和字符集知识]( http://www.joelonsoftware.com/articles/Unicode.html)
+    - [ ] [每一个软件开发者的绝对最低限度，必须要知道的关于 Unicode 和字符集知识](http://www.joelonsoftware.com/articles/Unicode.html)
     - [ ] [关于处理文本需要的编码和字符集, 每个程序员绝对需要知道的知识](http://kunststube.net/encoding/)
 
 - ### 字节顺序
@@ -1326,6 +1326,7 @@
     - [ ] bash
     - [ ] cat
     - [ ] grep
+
     - [ ] sed
     - [ ] awk
     - [ ] curl or wget
@@ -1416,23 +1417,23 @@
 - ### 设计模式
     - [ ] [UML统一建模语言概览 (视频)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
     - [ ] 主要有如下的设计模式:
-        - [ ] s(strategy)
-        - [ ] singleton
-        - [ ] adapter
-        - [ ] prototype
-        - [ ] decorator
-        - [ ] visitor
-        - [ ] factory, abstract factory
-        - [ ] facade
-        - [ ] observer
-        - [ ] proxy
+        - [x] s(strategy)
+        - [x] singleton
+        - [x] adapter
+        - [x] prototype
+        - [x] decorator
+        - [x] visitor
+        - [x] factory, abstract factory
+        - [x] facade
+        - [x] observer
+        - [x] proxy
         - [ ] delegate
-        - [ ] command
-        - [ ] state
-        - [ ] memento
-        - [ ] iterator
-        - [ ] composite
-        - [ ] flyweight
+        - [x] command
+        - [x] state
+        - [x] memento
+        - [x] iterator
+        - [x] composite
+        - [x] flyweight
     - [ ] [第六章 (第 1 部分 ) - 设计模式 (视频)](https://youtu.be/LAP2A80Ajrg?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO&t=3344)
     - [ ] [第六章 (第 2 部分 ) - Abstraction-Occurrence, General Hierarchy, Player-Role, Singleton, Observer, Delegation (视频)](https://www.youtube.com/watch?v=U8-PGsjvZc4&index=12&list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
     - [ ] [第六章 (第 3 部分 ) - Adapter, Facade, Immutable, Read-Only Interface, Proxy (video)](https://www.youtube.com/watch?v=7sduBHuex4c&index=13&list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
