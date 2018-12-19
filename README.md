@@ -1416,7 +1416,7 @@
 
 - ### 设计模式
     - [ ] [UML统一建模语言概览 (视频)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
-    - [ ] 主要有如下的设计模式:
+    - [x] 主要有如下的设计模式:
         - [x] s(strategy)
         - [x] singleton
         - [x] adapter
@@ -1427,7 +1427,7 @@
         - [x] facade
         - [x] observer
         - [x] proxy
-        - [ ] delegate
+        - [x] delegate
         - [x] command
         - [x] state
         - [x] memento
