@@ -1093,7 +1093,7 @@
     - [ ] [视频系列 (152 个) - 并不都是必须 (video)](https://www.youtube.com/watch?v=nzJapzxH_rE&list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)
     - [ ] [Python：测试驱动的 Web 开发](http://www.obeythetestinggoat.com/pages/book.html#toc)
     - [ ] 依赖注入:
-        - [ ] [视频](https://www.youtube.com/watch?v=IKD2-MAkXyQ)
+        - [x] [视频](https://www.youtube.com/watch?v=IKD2-MAkXyQ)
         - [ ] [测试之道](http://jasonpolites.github.io/tao-of-testing/ch3-1.1.html)
     - [ ] [如何编写测试](http://jasonpolites.github.io/tao-of-testing/ch4-1.1.html)
 
